@@ -1,6 +1,6 @@
-update=Wed 10 Jun 2015 05:23:01 PM CEST
+update=Thu 11 Jun 2015 05:24:41 PM CEST
 version=1
-last_client=pcbnew
+last_client=eeschema
 [cvpcb]
 version=1
 NetIExt=net
@@ -8,24 +8,14 @@ NetIExt=net
 EquName1=devcms
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=
-NetFmtName=PcbnewAdvanced
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
-[eeschema/libraries]
-LibName1=fma-brick-r01
 [pcbnew]
 version=1
 LastNetListRead=fma-brick-r01.net
 UseCmpFile=1
-PadDrill=1.016
-PadDrillOvalY=1.016
-PadSizeH=1.905
-PadSizeV=1.905
+PadDrill=1.8
+PadDrillOvalY=1.8
+PadSizeH=1.8
+PadSizeV=1.8
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
@@ -39,4 +29,15 @@ BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
 [pcbnew/libraries]
 LibDir=
+LibName1=fma-brick-logos-r01
+LibName2=fma-brick-r01
+[eeschema]
+version=1
+LibDir=
+NetFmtName=PcbnewAdvanced
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=45
+[eeschema/libraries]
 LibName1=fma-brick-r01
